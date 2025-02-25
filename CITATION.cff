@@ -1,0 +1,17 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+
+-   family-names: "lastname"
+    given-names: "firstname"
+    orcid: "1234"
+    affiliation: "RWTH Aachen University"
+-   family-names: "other-lastname"
+    given-names: "other-firstname"
+    orcid: "5678"
+    affiliation: "Test Institute"
+
+title: "Test"
+version: {here comes the software version}
+doi: 10.5281/zenodo.1234
+date-released: 2025-03-31
